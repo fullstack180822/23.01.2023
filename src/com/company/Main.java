@@ -23,5 +23,7 @@ public class Main {
         //main(["a", "b"]);
 
         System.out.println(add(3, 4));
+
+        System.out.println(Calculator.min(7, 4));
     }
 }
